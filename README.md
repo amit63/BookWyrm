@@ -1,15 +1,13 @@
 # bookwyrm
 
-A new Flutter project.
+A book tracking app built with **Flutter** and **Supabase**. Read more, read curious, and track your library together.
 
-## Getting Started
+## 🚀 Features
+- **Secure Auth:** Login and Sign-up powered by Supabase Auth.
+- **Personal Bookshelf:** Add books with titles and authors to your private collection.
+- **Real-time Backend:** Data is synced instantly to the Supabase cloud.
+- **Cross-Platform:** Runs on iOS, Android, and Web.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
